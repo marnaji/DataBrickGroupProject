@@ -15,7 +15,7 @@ All queries were executed using SQL, and PySpark was not utilized for this purpo
 
 ![Orders](/images/CountriesOrders.png)
 
-* Austria has the heaviest shipment in terms of weight *184.78* and Ireland has the second highest shipment weight of *145.01*, third being USA with sjipment weight of *112.87*, Germany being fourth with shipment weight of *92.48* and Sweden being fifth with weight of *87.50*.
+* Austria has the heaviest shipment in terms of weight *184.78* and Ireland has the second highest shipment weight of *145.01*, third being USA with shipment weight of *112.87*, Germany being fourth with shipment weight of *92.48* and Sweden being fifth with weight of *87.50*.
 
 ![HighestWeight](/images/HighWeight.png)
 
